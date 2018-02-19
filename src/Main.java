@@ -9,7 +9,7 @@ public class Main {
         long hexValue=0;
 
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);// add in scanner
         System.out.print("Enter a hexadecimal number: ");
         userString=scanner.next();
 
